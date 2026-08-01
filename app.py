@@ -6,7 +6,7 @@ from sklearn.linear_model import LinearRegression
 # -----------------------------
 # Load Dataset
 # -----------------------------
-data = pd.read_csv("dataset/Housing.csv")
+data = pd.read_csv("Housing.csv")
 
 # -----------------------------
 # Encode Categorical Columns
